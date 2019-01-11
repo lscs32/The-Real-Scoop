@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" ?>
+<Project Title="[The Real Scoop Copy]">
+	<Page Title="Start">
+		<Page Title="Sign Up">
+			<Page Title="Send Code">
+				<Page Title="SMS Code Received">
+					<Page Title="Verify Code"/>
+				</Page>
+			</Page>
+			<Page Title="Re-Send Verification Code">
+				<Page Title="SMS Code Received2">
+					<Page Title="Re-Verify Code"/>
+				</Page>
+			</Page>
+		</Page>
+		<Page Title="Sign In">
+			<Page Title="Facebook Sign In">
+				<Page Title="Sign In Non-Registered">
+					<Page Title="Facebook Sign In">
+						<Page Title="Limited User Welcome">
+							<Page Title="Limited Users News">
+								<Page Title="Leaders"/>
+							</Page>
+						</Page>
+					</Page>
+				</Page>
+			</Page>
+		</Page>
+	</Page>
+	<Page Title="Logged User Welcome">
+		<Page Title="Select Location">
+			<Page Title="Location">
+				<Page Title="Turn Location Services On">
+					<Page Title="Set City"/>
+					<Page Title="Go to Settings or News"/>
+				</Page>
+			</Page>
+		</Page>
+		<Page Title="Settings">
+			<Page Title="Preferences"/>
+			<Page Title="Advanced Settings">
+				<Page Title="Printer Options"/>
+				<Page Title="Security Settings"/>
+				<Page Title="Barcode Scan"/>
+				<Page Title="Advanced Search Settings"/>
+			</Page>
+			<Page Title="Other Settings">
+				<Page Title="Social Media Accounts"/>
+				<Page Title="Social Media Linked Accounts"/>
+				<Page Title="Linked in Account">
+					<Page Title="Join Now">
+						<Page Title="Sign In">
+							<Page Title="Send Code">
+								<Page Title="Verify Code"/>
+							</Page>
+						</Page>
+					</Page>
+				</Page>
+				<Page Title="Facebook Account">
+					<Page Title="Join Now">
+						<Page Title="Sign In">
+							<Page Title="Send Code">
+								<Page Title="Verify Code"/>
+							</Page>
+						</Page>
+					</Page>
+				</Page>
+				<Page Title="Twitter Account">
+					<Page Title="Join Now">
+						<Page Title="Sign In">
+							<Page Title="Send Code">
+								<Page Title="Verify Code"/>
+							</Page>
+						</Page>
+					</Page>
+				</Page>
+				<Page Title="Tumblr Account">
+					<Page Title="Join Now">
+						<Page Title="Sign In">
+							<Page Title="Send Code">
+								<Page Title="Verify Code"/>
+							</Page>
+						</Page>
+					</Page>
+				</Page>
+				<Page Title="Reddit Account">
+					<Page Title="Join Now">
+						<Page Title="Sign In">
+							<Page Title="Send Code">
+								<Page Title="Verify Code"/>
+							</Page>
+						</Page>
+					</Page>
+				</Page>
+				<Page Title="Job & Company"/>
+				<Page Title="Located"/>
+				<Page Title="Add a Photo"/>
+				<Page Title="My Network"/>
+				<Page Title="Home"/>
+				<Page Title="Career"/>
+				<Page Title="Messaging"/>
+				<Page Title="Me">
+					<Page Title="Settings"/>
+				</Page>
+			</Page>
+			<Page Title="Search"/>
+		</Page>
+	</Page>
+	<Page Title="Articles">
+		<Page Title="Preferred News Articles">
+			<Page Title="Leaders"/>
+		</Page>
+		<Page Title="Editor's Pick">
+			<Page Title="24 Solar Terms"/>
+		</Page>
+		<Page Title="China">
+			<Page Title="Collapse Kills More Than 70 Workers"/>
+		</Page>
+		<Page Title="World">
+			<Page Title="Thanksgiving Day"/>
+		</Page>
+		<Page Title="Business">
+			<Page Title="Moves On Yuan Point To Reform"/>
+		</Page>
+		<Page Title="Sports">
+			<Page Title="Gerrard Retires"/>
+		</Page>
+		<Page Title="Lifestyle">
+			<Page Title="The Long March"/>
+		</Page>
+		<Page Title="Tech">
+			<Page Title="iPhone 'Live Photo' May Leak Location"/>
+		</Page>
+		<Page Title="Opinion">
+			<Page Title="New DPRK"/>
+		</Page>
+		<Page Title="Special">
+			<Page Title="President Xi Visits Latin America"/>
+		</Page>
+		<Page Title="Photo">
+			<Page Title="Photo-1"/>
+			<Page Title="Photo-2"/>
+		</Page>
+		<Page Title="Video"/>
+		<Page Title="Download"/>
+		<Page Title="Saved"/>
+	</Page>
+	<Page Title="Author's Profile">
+		<Page Title="Bibliography"/>
+		<Page Title="Highly Rated Articles"/>
+	</Page>
+	<Page Title="Publisher's Profile">
+		<Page Title="Bibliography"/>
+		<Page Title="Best Sellers"/>
+	</Page>
+	<Page Title="My Account"/>
+	<Page Title="More Apps"/>
+	<Page Title="Contact Us"/>
+	<Page Title="Reviews">
+		<Page Title="Blog"/>
+		<Page Title="User Levels"/>
+		<Page Title="Support Chat Rooms">
+			<Page Title="Chats"/>
+		</Page>
+		<Page Title="Contacts"/>
+		<Page Title="News"/>
+		<Page Title="Updates">
+			<Page Title="News Feed">
+				<Page Title="Post"/>
+			</Page>
+			<Page Title="Edit Post">
+				<Page Title="Select Picture"/>
+				<Page Title="View Picture"/>
+			</Page>
+		</Page>
+		<Page Title="Levels"/>
+	</Page>
+</Project>
